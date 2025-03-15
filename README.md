@@ -1,3 +1,3 @@
 # Demo
 
-discription   
+learning Git/Github
